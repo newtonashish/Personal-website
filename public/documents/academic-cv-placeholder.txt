@@ -1,0 +1,6 @@
+Replace this file with your public academic CV PDF named academic-cv.pdf.
+
+The website's CV link expects:
+public/documents/academic-cv.pdf
+
+Do not upload confidential or personally sensitive information.

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="t d">
+<title id="t">Profile photograph placeholder</title><desc id="d">A simple abstract portrait placeholder. Replace with your professional photograph.</desc>
+<rect width="800" height="1000" fill="#dce8e1"/><circle cx="400" cy="340" r="145" fill="#b7cec1"/><path d="M145 1000c18-224 112-350 255-350s237 126 255 350" fill="#b7cec1"/><path d="M265 334c0-90 59-154 135-154s135 64 135 154" fill="none" stroke="#8eaa9b" stroke-width="12" stroke-linecap="round"/><text x="400" y="890" text-anchor="middle" fill="#527565" font-family="Arial,sans-serif" font-size="27" letter-spacing="5">ADD YOUR PHOTO</text>
+</svg>
