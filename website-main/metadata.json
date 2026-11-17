@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Monika Kumal | Dental Surgeon",
+  "description": "Professional dental care, appointment enquiries and oral health information from Dr. Monika Kumal, BDS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
